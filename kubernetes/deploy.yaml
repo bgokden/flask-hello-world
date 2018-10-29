@@ -17,4 +17,4 @@ spec:
       - name: flask-hello-world
         image: IMAGE
         ports:
-        - containerPort: 80
+        - containerPort: 5000
